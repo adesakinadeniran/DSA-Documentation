@@ -13,7 +13,7 @@ I have learnt quite a number of things ranging from MS Excel to SQL, and now to 
 
 ### Tools Used
 
-- Ms Excel for Data Cleaning [Download here](https://www.microsoft.com/en-us/microsoft-365/excel)
+- Ms Excel for Data Cleaning [Download here](https://www.microsoft.com)
     - For Data Collection
     - For Data Cleaning
       1. Data Manipulation 
